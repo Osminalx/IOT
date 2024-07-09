@@ -1,0 +1,4 @@
+#define SECRET_SSID "INFINITUM6B54_2.4"
+#define SECRET_PASS "sNpNk3XWJT"
+#define SUPABASE_URL "https://hhxazicqdscmeauchzds.supabase.co"
+#define SUPABASE_API_KEY "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhoeGF6aWNxZHNjbWVhdWNoemRzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTI5ODEwMzAsImV4cCI6MjAyODU1NzAzMH0.OLfpDwm7aMafe1pjcRcvnVoh9-pZC5kEf4QIA9iHR84"
